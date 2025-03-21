@@ -137,7 +137,7 @@ Please refer to the notebooks section of the repository for the same.
 
 ### Step 1: Create a Python venv
 ```bash
-python -m venv de_assign_1_jyotin
+python -m venv data_projects_samay
 ```
 
 ### Step 2: Activate the venv
