@@ -1,10 +1,10 @@
 # DE-Assign-1
 
-[Repository Link](https://github.com/gjyotin305/DE-Assign-1)
+[Repository Link](https://github.com/samay2504/Data-Ingestion)
 
 ## Team Members
-- Jyotin Goel (B22AI063)
 - Samay Mehar (B22AI048)
+- Jyotin Goel (B22AI063)
 
 ## Question 1: Create an ER Diagram
 
